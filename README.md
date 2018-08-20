@@ -1,4 +1,5 @@
 # BONITA
+Podcast/Audio Search and Storage system
 
 Play/AKKA REST API with MongoDB and Minio storage built with SBT  
 https://www.minio.io/  
