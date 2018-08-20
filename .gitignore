@@ -3,6 +3,7 @@
 
 # intelliJ idea
 /.idea
+src/.idea
 
 # Ignore Play! working directory #
 bin/
