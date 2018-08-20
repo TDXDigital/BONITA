@@ -1,6 +1,6 @@
 # BONITA
 
-Play/AKKA REST API with MongoDB and Minio storage built with SBT
+Play/AKKA REST API with MongoDB and Minio storage built with SBT  
 https://www.minio.io/  
 https://www.mongodb.com/  
 https://www.playframework.com/  
